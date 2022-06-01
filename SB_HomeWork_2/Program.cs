@@ -14,7 +14,7 @@ namespace Example_001_Variable
             double maths_point = 65;
             double physics_point = 78;
 
-            string pattern = "Имя: {0} \nВозраст: {1}  \nЭлектронная почта: {2}  \nБаллы по программированию: {3}  \nБаллы по математике: {4}  \nБаллы по физике: {5}";
+            string pattern = "ФИО: {0} \nВозраст: {1}  \nЭлектронная почта: {2}  \nБаллы по программированию: {3}  \nБаллы по математике: {4}  \nБаллы по физике: {5}";
             
             Console.WriteLine(pattern,
                 FullName,
