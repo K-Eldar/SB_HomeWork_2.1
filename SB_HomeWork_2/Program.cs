@@ -30,7 +30,7 @@ namespace Example_001_Variable
 
             Console.ReadKey();
 
-            Console.WriteLine($"Общий бал по всем предметам: {sum_point} \nСрединий бал: {average_point}");
+            Console.WriteLine($"Общий балл по всем предметам: {sum_point} \nСрединий балл: {average_point}");
 
 
 
